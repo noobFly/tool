@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.noob</groupId>
-		<artifactId>tool-collection</artifactId>
+		<artifactId>tool</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.noob.stream</groupId>
